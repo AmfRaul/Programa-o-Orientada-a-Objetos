@@ -1,0 +1,4 @@
+ Implemente um sistema simples de locadora. Todo veículo é alugável e sabe calcular valor da diária conforme tipo. 
+ Crie Veiculo (abstrata), com placa, modelo e ano. 
+ Crie Carro, Moto e Caminhao. Todos implementam Alugavel com double calcularDiaria(int dias). 
+ Uma Agencia tem um método que recebe List<Alugavel> e calcula a receita prevista para um período (ex.: 5 dias).
