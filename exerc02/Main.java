@@ -1,6 +1,6 @@
 public class Main{
     public static void main(String args[]){
-        Circulo circulo = new Circulo("Amarelo", 4, 3.1416);
+        Circulo circulo = new Circulo("Amarelo", 4);
         Retangulo retangulo = new Retangulo("Roxo", 4, 5);
 
         circulo.CalcularArea();
