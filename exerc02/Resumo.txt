@@ -1,0 +1,3 @@
+Implemente um pequeno sistema de formas. Toda forma “sabe” calcular área. 
+Crie uma interface AreaCalculavel, uma classe base Forma (com cor) e duas subclasses: Retangulo e Circulo. 
+Leia ou defina alguns objetos e mostre a soma total das áreas, usando polimorfismo (iterar por AreaCalculavel).
